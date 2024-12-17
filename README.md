@@ -5,7 +5,7 @@
 
 
 This repo provides the official implementation for our paper
-> **[Causal Diffusion Transformers for Generative Modeling]([https://arxiv.org/](https://arxiv.org/abs/2412.12095))**<br>
+> **[Causal Diffusion Transformers for Generative Modeling](https://arxiv.org/abs/2412.12095)**<br>
 > Chaorui Deng, [Deyao Zhu](https://tsutikgiau.github.io/), [Kunchang Li](https://andy1621.github.io/), Shi Guang, [Haoqi Fan](https://haoqifan.github.io/)
 > <br>Bytedance Research<br>
 
