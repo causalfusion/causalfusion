@@ -5,7 +5,7 @@
 
 
 This repo provides the official implementation for our paper
-> **[Causal Diffusion Transformers for Generative Modeling](https://arxiv.org/)**<br>
+> **[Causal Diffusion Transformers for Generative Modeling]([https://arxiv.org/](https://arxiv.org/abs/2412.12095))**<br>
 > Chaorui Deng, [Deyao Zhu](https://tsutikgiau.github.io/), [Kunchang Li](https://andy1621.github.io/), Shi Guang, [Haoqi Fan](https://haoqifan.github.io/)
 > <br>Bytedance Research<br>
 
@@ -47,12 +47,12 @@ See the instrutions in [ADM](https://github.com/openai/guided-diffusion/tree/mai
   title={Causal Diffusion Transformers for Generative Modeling},
   author={Chaorui Deng, Deyao Zhu, Kunchang Li, Shi Guang, Haoqi Fan},
   year={2024},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2412.12095},
 }
 ```
 
 
 ### Acknowledgments
 
-This codebase borrows from [DiT](https://github.com/facebookresearch/DiT) and [ADM](https://github.com/openai/guided-diffusion), thanks for their great works!
+This codebase borrows from [DiT](https://github.com/facebookresearch/DiT), [MAR](https://github.com/LTH14/mar), and [ADM](https://github.com/openai/guided-diffusion), thanks for their great works!
 
